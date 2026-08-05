@@ -1,4 +1,3 @@
-
 # Core Exclusions
 vendor_archive/
 quarantine/
@@ -10,16 +9,11 @@ autonomous_daemon.log
 autonomous_report.json
 autonomous_snapshot.json
 autonomous_ledger.jsonl
-
-# Python Cache
 __pycache__/
 *.pyc
-
-# Large Binaries
+*.pyo
 *.gguf
 *.bin
 *.pth
 *.pt
-
-# Submodules
 meta_hub/
