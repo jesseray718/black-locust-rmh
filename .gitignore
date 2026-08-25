@@ -5,3 +5,14 @@ logs/
 *.log
 *.pyc
 __pycache__/
+.ssh
+*.pem
+*.key
+*.gguf
+*.bin
+__pycache__
+.syncthing.*.tmp
+ENDOFBRIDGE
+session_seeds
+ledger/live
+context_bridge/context.json
