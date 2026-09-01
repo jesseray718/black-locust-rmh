@@ -31,3 +31,6 @@ Active spoke. Designs and integration points are present; physical iteration con
 - Permaculture and thermal notes elsewhere in the lattice
 
 License: aligned with the OpenRoot lattice (open hardware orientation).
+
+## Knowledge Integration
+See `docs/knowledge/`.
