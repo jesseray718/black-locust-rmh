@@ -16,3 +16,11 @@ ENDOFBRIDGE
 session_seeds
 ledger/live
 context_bridge/context.json
+
+# --- private keys (added by overhaul R-0) ---
+*.pem
+*.ppk
+id_rsa
+id_ed25519
+id_ecdsa
+.ssh/
